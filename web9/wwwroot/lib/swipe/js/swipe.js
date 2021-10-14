@@ -1,4 +1,4 @@
-﻿// credit: http://www.javascriptkit.com/javatutors/touchevents2.shtml
+﻿
 function swipedetect(el, callback) {
 
     var touchsurface = el,
